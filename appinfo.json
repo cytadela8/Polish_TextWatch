@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cytadela8",
+    "longName": "Polish TextWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Polish TextWatch",
+    "uuid": "628ce858-54b1-4822-9c42-2093fab593be",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
