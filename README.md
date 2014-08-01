@@ -1,4 +1,4 @@
 Polish_TextWatch
 ================
 
-Polish version of TextWatch for pebble
+Polish version of TextWatch for Pebble.
